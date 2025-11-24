@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Hi there, I'm Shohag Mia 👋 </h1>
-<h3 align="center">I’m a passionate **Data Engineer** with strong skills in Python, SQL, AWS cloud services, infrastructure-as-code, and scalable data systems. I enjoy solving complex data problems, building automated pipelines, and developing backend systems that power analytics and machine learning. With an **MSc in Artificial Intelligence**, I bring both engineering and machine learning experience to every project.</h3>
+<h3 align="center">I’m a passionate Data Engineer with strong skills in Python, SQL, AWS cloud services, infrastructure-as-code, and scalable data systems. I enjoy solving complex data problems, building automated pipelines, and developing backend systems that power analytics and machine learning. With an MSc in Artificial Intelligence, I bring both engineering and machine learning experience to every project.</h3>
 
 ### 🔭 I’m currently working on
 - Building data pipelines and ETL workflows using Python, SQL, and AWS  
