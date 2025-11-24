@@ -6,7 +6,7 @@
 - Developing GPU-accelerated LLM chatbots using PyTorch + HuggingFace
 
 ### 🌱 I’m currently learning
-- Data pipeline orchestration (Airflow / Step Functions)  
+- Advanced Prompt Engineering
 - Efficient LLM inference and fine-tuning techniques
 
 ### 🤔 I’m looking for help with
